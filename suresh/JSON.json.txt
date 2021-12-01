@@ -1,0 +1,7 @@
+{
+"URL"     "www.instagram.com"
+"browser" "chrome"
+"un"      "WINDOW"
+"PWD"     "MICROSOFT"
+
+}
